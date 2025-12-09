@@ -1,0 +1,13 @@
+{
+  "name": "awp-quizz4-sport-cars",
+  "version": "1.0.0",
+  "description": "Quizz #4 - Express, Node.js, MySQL CRUD (Sport Cars DB)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mysql2": "^3.9.0"
+  }
+}
